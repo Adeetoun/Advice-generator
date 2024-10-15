@@ -25,6 +25,7 @@ p{
     margin-top: 5px;
     color:hsl(193, 38%, 86%);
     padding: 15px;
+    text-align: center;
 }
 .container{
     width: 50%;
